@@ -1,5 +1,5 @@
 * {
-    font-style: Arial, Helvetica, sans-serif;
+    font-style: "roboto" Arial, Helvetica, sans-serif;
 }
 
 /*utilies*/
@@ -41,7 +41,7 @@ body {
 }
 
 .triangle-size {
-    font-size: px;
+    font-size: 12px;
 }
 
 #header1 {
