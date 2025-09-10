@@ -18,6 +18,30 @@ body {
     background-color: var(--cv-primary-color)
 }
 
+#header1 {
+    display: inline;
+    vertical-align: middle;
+}
+
+#blue {
+    background-color: var(--cv-button1);
+    border: 2px solid #a3d8f4;
+    margin-right: 2px;
+    border-radius: 10%;
+    color: white;
+    height: 2rem;
+    width: 5rem;
+}
+
+#translucid {
+    background-color: white;
+    border: 1px solid rgb(214, 211, 211);
+    color: rgb(214, 211, 211);
+    border-radius: 10%;
+    height: 2rem;
+
+}
+
 .image{
     vertical-align: middle;
 }
@@ -44,38 +68,13 @@ body {
     font-size: 12px;
 }
 
-#header1 {
-    display: inline;
-    vertical-align: middle;
-}
-
 .button {
-    border: 10px solid rgb(255, 255, 255);
+    padding-top: 5px;
     border-bottom: 1px solid #f0f1f2;
-    height: 40px;
+    height: 2.5rem;
     padding-left: 30px;
-    border-radius: 5%;
-
 }
 
-#blue {
-    background-color: var(--cv-button1);
-    border: 2px solid #a3d8f4;
-    margin-right: 2px;
-    border-radius: 10%;
-    color: white;
-    height: 2rem;
-    width: 5rem;
-}
-
-#translucid {
-    background-color: white;
-    border: 1px solid rgb(214, 211, 211);
-    color: rgb(214, 211, 211);
-    border-radius: 10%;
-    height: 2rem;
-
-}
 
 .circle {
     border-radius: 50%;
